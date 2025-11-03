@@ -1,0 +1,8 @@
+name=input("What is your name ? : ")
+age= int(input("What is your age ? : "))
+# print(name, age , sep="    ")
+# print(name, age , sep="")
+# print(name, age , sep="-")
+print(name, age , end="")
+print(name, age , end="    ")
+print(name, age , end="\n")
