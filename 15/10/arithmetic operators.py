@@ -42,11 +42,4 @@
 # print(f"{number_1}\n{number_2}\n{number_3}")
 
 
-name=input("Enter your name: ")
-age=int(input("Enter your age : "))
-class_= int(input("Enter your class : "))
-roll_no=int(input("Enter your roll number : "))
-b = [{name} , {age} , {class_} , {roll_no}]
-print(b) 
-print(type(b))
 
